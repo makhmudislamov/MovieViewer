@@ -2,7 +2,7 @@
 
 **Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Walkthrough](Walkthrough.gif)
+![Walkthrough](Walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
